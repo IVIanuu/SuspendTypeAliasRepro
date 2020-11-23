@@ -1,0 +1,4 @@
+include ':b'
+include ':a'
+include ':compiler-plugin'
+rootProject.name = "SuspendTypeAliasRepro"
